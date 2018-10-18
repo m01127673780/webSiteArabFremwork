@@ -242,3 +242,14 @@ background-image: url('../../img-All/Slider-Home-boot/2lab.jpg');
 
 /*End corsoul siader*/
 /*=====================================================*/
+.col-GetQuote-tile{
+	text-align: left;
+}
+@media(max-width:768px){
+.col-GetQuote-tile {
+     text-align:left!important; 
+    margin: 20px 0;
+    font-weight: bold;
+    color: #ffcc00;
+} 
+}

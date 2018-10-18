@@ -197,3 +197,20 @@ body{
 
 }
 
+@media(max-width:768px){
+	.title-and-bottons .cd-headline.clip b{
+		font-size: 23px;
+		color: #ffcc00;
+	}
+}
+@media(max-width:768px){
+	.g-recaptcha{
+		margin: 50px 0;
+	}
+}
+@media(max-width:768px){
+	.row contact-icon  {
+		    margin: 180px 0!important;
+    padding-bottom: 256px  !important;
+	}
+}

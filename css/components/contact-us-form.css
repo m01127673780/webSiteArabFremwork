@@ -721,3 +721,15 @@ color: #fff;
 	
 	margin-bottom: 50px;
 }
+@media(max-width:768px){
+	.pag-mab-contact-us{
+		    background: url(../../img/background/bg-map.png);
+    background-size: cover;
+    width: 100%;
+    padding-bottom: 30px;
+    margin-bottom: 453px;
+    /* margin-top: -86px; */
+	}
+	.ccontact-us p{margin: 38px 52px 0 0;}
+	
+}

@@ -67,3 +67,11 @@
  .none-background.butoon-1-a{
 	background-color: transparent!important;
 }
+@media(max-width:768px){
+	.buttons-effects{
+		
+		text-align: center;
+		margin: 0
+			
+	}
+}
